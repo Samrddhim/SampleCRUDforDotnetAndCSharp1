@@ -1,0 +1,6 @@
+@SampleCRUDusingDotnet_HostAddress = http://localhost:5293
+
+GET {{SampleCRUDusingDotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

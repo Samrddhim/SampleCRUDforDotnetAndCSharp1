@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0J1q5nB4tmnGCtXNrfhIbYJyR12a6l55AakiyDJC/1Q=",
+  "Source": "SampleCRUDusingDotnet",
+  "BasePath": "_content/SampleCRUDusingDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
